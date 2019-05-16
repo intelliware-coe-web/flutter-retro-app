@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716267375344",
+    "firebase_url": "https://retro-app-19e3c.firebaseio.com",
+    "project_id": "retro-app-19e3c",
+    "storage_bucket": "retro-app-19e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716267375344:android:021d0b6e592fe4a4",
+        "android_client_info": {
+          "package_name": "com.intelliware.retro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716267375344-9na0olvnhog9c9d1bspevk4b8l8m1bh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_pwVU1hzCft3XM413-XtYQ8xYr0KFbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716267375344-9na0olvnhog9c9d1bspevk4b8l8m1bh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716267375344-pif06ek79auc274o8ocda2n60jgrllj6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intelliware.retroApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
